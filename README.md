@@ -1,1 +1,1 @@
-# data-analyst-projects
+# Example of README.md
